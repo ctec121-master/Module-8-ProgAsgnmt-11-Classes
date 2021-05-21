@@ -1,8 +1,10 @@
-# Module 8 - Programming Assignment 11 Problem 1
+# Module 8 - Programming Assignment Problem 1
 
 ## Create a Car Class
 
 Create a class named Car.
+
+Insert class documentation that describes this class - see Canvas page: "Multiple Files and Module Documentation"
 
 When the class is instantiated three instance variables are defined:
 
@@ -23,9 +25,7 @@ Six methods are to be created in the **Car** class:
 
 Create a TestCar() function that
 
-- Creates a list named **carLot**
-- Add 5 Car objects to the list. Make up the makes, models and years for each of your cars.
-- Create a loop that displays each cars properties for each car object in the list
-- Create another loop that iterates through the list of cars and calls each of the three set methods to change the make, model and year of each car.
-- Repeat the first loop to display the updated list.
-- Use conditional execution ("if __name__ == "__main__":) to call the TestCar function
+- creates a car
+- prints the car's properties using the get methods
+- updates the car's properties using the set methods and then prints them out to demonstrate that the set methods worked.
+- Use conditional execution ("if \_\_name__ == "\_\_main__":) to call the TestCar function.

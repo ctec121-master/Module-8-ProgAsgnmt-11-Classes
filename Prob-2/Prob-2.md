@@ -1,21 +1,17 @@
-# Module 8 - Programming Assignment 11 Problem 2
+# Module 8 - Programming Assignment Problem 2
 
 ## Create a Simple Student Class
 
 Develop a class named **Student** that holds the following data about a student in instance variables:
 
-- name 
+- name
 - ID number
 - major
 - GPA
 
-I leave it to you to determine which instance variables will be initialized with parameters in the constructor. Please explain your reasoning in comments in your code. Make sure that all the instance variables are initialized to some value.
+In comments, discuss which of these instance variables should be fixed - shouldn't be changed once object is created - and which can be updated. **Explain your reasoning.** Based on your decisions define the parameters in your constructor and appropriate setter functions. Make sure all instance variables are initialized.
 
-The instance variables should be marked as private. Write getter and setter methods to access or update the instance variables.
-
-Once you have written the class, write a test program that creates a list and stores four Student object elements. Makes sure your test program exercises all of the class methods. Use loops to display the state of the objects in the list.
-
-Use the following data:
+Once you have written the class, write a test program, using conditional execution, that tests all of the class's methods. As a final test create a list of students with the information shown below and iterate over the list to generate the output shown below.
 
 ```text
 Name            ID Number       Major           GPA

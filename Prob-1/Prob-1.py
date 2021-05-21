@@ -1,5 +1,9 @@
-# Module 8
-#   Programming Assignment 11
-#     Prob-1.py
+"""
+CTEC 121
+date: <ex: mm/dd/yyyy>
+<your name>
+Name: <assignment/lab name>
+Description: <assignment/lab description>
+"""
 
-# Your code below
+# your code below
